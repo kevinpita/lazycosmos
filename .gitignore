@@ -16,3 +16,4 @@ coverage.*
 # Local environment
 .env
 .env.*
+/.direnv
